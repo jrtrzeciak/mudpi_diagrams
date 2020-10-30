@@ -1,5 +1,5 @@
 # MudPi Diagrams
-Diagrams for several basic examples of hardware configurations for [MudPi](mudpi.app) that showcase different parts of the system. Schematics are created in [Fritzing](https://fritzing.org/) to demonstrate the hardware in a prototype setting. The schematics are then exported to a PDF. Then [Inkscape](https://inkscape.org/) is used to export as a PNG with a transparent background.
+Diagrams for several basic examples of hardware configurations for [MudPi](https://mudpi.app/) that showcase different parts of the system. Schematics are created in [Fritzing](https://fritzing.org/) to demonstrate the hardware in a prototype setting. The schematics are then exported to a PDF. Then [Inkscape](https://inkscape.org/) is used to export as a PNG with a transparent background.
 
 The following diagrams are included or to be included.
 - Basic Configuration
