@@ -6,3 +6,5 @@ The coil of this relay is designed for 5V operation. The coil will draw 40mA at 
 A diode is included to protect against [flyback voltage](https://learn.sparkfun.com/tutorials/diodes/all#diode-applications). 
 
 A terminal block was also included to connect the relay to an offboard load. The NO or NC pins could be used depending on the application.
+
+![Relay Breadboard Example](relay_bb.png)
